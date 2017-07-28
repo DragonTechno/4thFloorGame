@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Node.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Grid.cs" Line="30" Column="3" />
+      <File FileName="Assets\Scripts\PathF.cs" Line="40" Column="8" />
+      <File FileName="Assets\Scripts\PathRequestManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Node.cs" Line="20" Column="8" />
+      <File FileName="Assets\Scripts\UnitMov.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
