@@ -1,12 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Node.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TurnManager.cs">
     <Files>
-      <File FileName="Assets\Scripts\Grid.cs" Line="30" Column="3" />
-      <File FileName="Assets\Scripts\PathF.cs" Line="40" Column="8" />
+      <File FileName="Assets\Scripts\Grid.cs" Line="148" Column="38" />
+      <File FileName="Assets\Scripts\PathF.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\PathRequestManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Node.cs" Line="20" Column="8" />
-      <File FileName="Assets\Scripts\UnitMov.cs" Line="22" Column="2" />
+      <File FileName="Assets\Scripts\Node.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UnitMov.cs" Line="41" Column="3" />
+      <File FileName="Assets\Scripts\TurnManager.cs" Line="33" Column="24" />
+      <File FileName="Assets\Scripts\ManageCursor.cs" Line="13" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

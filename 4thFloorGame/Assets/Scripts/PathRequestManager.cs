@@ -88,12 +88,18 @@ public struct PathRequest
 {
 	public Vector3 pathStart;
 	public Vector3 pathEnd;
+	public int charMoveLim;
 	public Action<Vector3[],bool> callback;
+	public bool check;
+	public int team;
 
-	public PathRequest(Vector3 _pathStart, Vector3 _pathEnd, Action<Vector3[],bool> _callback)
+	public PathRequest(Vector3 _pathStart, Vector3 _pathEnd, int _moveLim, bool _check, int _team, Action<Vector3[],bool> _callback)
 	{
 		pathStart = _pathStart;
 		pathEnd = _pathEnd;
 		callback = _callback;
+		charMoveLim = _moveLim;
+		check = _check;
+		team = _team;
 	}
 }

@@ -10,7 +10,7 @@ public class Node : IHeapItem<Node> {
 	public int gridY;
 	public int movePenalty;
 	public string tag;
-
+	public int occupied = 0;
 	public int gCost;
 	public int hCost;
 	public Node parent;

@@ -144,6 +144,14 @@ public class Grid : MonoBehaviour {
 		int[] coord = {x,y};
 		return coord;
 	}
+
+	public Vector3 NodePosFromWorldPoint (Vector3 worldPosition)
+	{
+		Vector3 worldBottomLeft = transform.position - Vector3.right * (gridWorldSize.x / 2 - rayAdjust) - Vector3.up * gridWorldSize.y / 2;
+		int[] gridPos = GridPosFromWorldPoint (worldPosition);
+		Vector3 worldPoint = worldBottomLeft + Vector3.right * (gridPos[0] * nodeDiameter + nodeRadius) + Vector3.up * (gridPos[1] * nodeDiameter + nodeRadius);
+		return worldPoint;
+	}
 		
 	void OnDrawGizmos() {
 		Gizmos.DrawWireCube(transform.position,new Vector3(gridWorldSize.x,gridWorldSize.y,1));
