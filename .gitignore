@@ -4,18 +4,6 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-*/PathFinding/[Ll]ibrary/
-*/PathFinding/[Tt]emp/
-*/PathFinding/[Oo]bj/
-*/PathFinding/[Bb]uild/
-*/PathFinding/[Bb]uilds/
-*/PathFinding/Assets/AssetStoreTools*
-*/4thFloorGame/[Ll]ibrary/
-*/4thFloorGame/[Tt]emp/
-*/4thFloorGame/[Oo]bj/
-*/4thFloorGame/[Bb]uild/
-*/4thFloorGame/[Bb]uilds/
-*/4thFloorGame/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
@@ -161,3 +149,4 @@ PathFinding/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
 PathFinding/Library/metadata/f7/f70555f144d8491a825f0804e09c671c
 PathFinding/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc
 PathFinding/Library/metadata/f7/f7b54ff4a43d4fcf81b4538b678e0bcc.info
+4thFloorGame/Library/metadata/00/00000000000000005000000000000000
