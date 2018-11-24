@@ -4,6 +4,18 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+*/PathFinding/[Ll]ibrary/
+*/PathFinding/[Tt]emp/
+*/PathFinding/[Oo]bj/
+*/PathFinding/[Bb]uild/
+*/PathFinding/[Bb]uilds/
+*/PathFinding/Assets/AssetStoreTools*
+*/4thFloorGame/[Ll]ibrary/
+*/4thFloorGame/[Tt]emp/
+*/4thFloorGame/[Oo]bj/
+*/4thFloorGame/[Bb]uild/
+*/4thFloorGame/[Bb]uilds/
+*/4thFloorGame/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
